@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SplashGuide</string>
+    <string name="enter_prompt">点击进入轻松体验</string>
+    <string name="welcome_prompt">欢迎进入  \\n  智能农业系统</string>
+    <string name="software_version">版本号：</string>
+</resources>
